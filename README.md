@@ -58,8 +58,6 @@ Now that you have completed your initial analysis, design a Flask API based on t
   * When given the start and the end date, calculate the `TMIN`, `TAVG`, and `TMAX` for dates between the start and end date inclusive.
 
 
-![temperature](Images/temperature.png)
-![daily-normals](Images/daily-normals.png)
 
 ### Contact
 
