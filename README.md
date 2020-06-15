@@ -20,7 +20,7 @@ Python: SQLAlchemy, Pandas and Matplotlib
 
 
 
-### Routes
+### Flask Routes
 
 * `/`
 
@@ -49,7 +49,6 @@ Python: SQLAlchemy, Pandas and Matplotlib
   * When given the start only, calculate `TMIN`, `TAVG`, and `TMAX` for all dates greater than and equal to the start date.
 
   * When given the start and the end date, calculate the `TMIN`, `TAVG`, and `TMAX` for dates between the start and end date inclusive.
-
 
 
 ### Contact
