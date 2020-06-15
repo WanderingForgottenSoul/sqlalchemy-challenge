@@ -1,5 +1,9 @@
 # SQLAlchemy -challenge
 
+## Summary
+This project is designed to conduct data exploration and analysis of climate database by using SQLAlchemy ORM queries, and Pandas and Matplotlib in Python.
+
+
 ### Before You Begin
 
 1. Create a new repository for this project called `sqlalchemy-challenge`. **Do not add this homework to an existing repository**.
